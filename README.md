@@ -1,0 +1,1 @@
+Gorilla Tagging Manager is a versatile Python script designed to simplify the management and organization of mods and customizations for the popular game Gorilla Tag. It serves as a comprehensive tool for enthusiasts to enhance their gameplay experience by seamlessly installing, configuring, and updating mods. It will automaticly get the  latest verssion of  bepin. and  update it
